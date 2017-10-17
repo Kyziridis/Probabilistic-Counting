@@ -5,4 +5,4 @@ Some Algoithms to Count Unique Elements.
 
 - Data was generated randomly simulating the result of a hash function, so they are binary bitstreams uniform distributed.
 
-- Read |"advances in data mining.pdf"| for further information.
+- Read ||"advances-data-mining.pdf"|| for further information.
